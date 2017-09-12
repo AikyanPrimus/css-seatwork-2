@@ -14,8 +14,18 @@ div#content {
 }
 section.row {
     background-color: yellow;
+    width: 99%;
 }
 section.col {
     width: 33%;
     float: left;
+    background-color: red;
+}
+section.lasagna{
+    background-image: url(https://i.ytimg.com/vi/2qLwkT1F4Lc/maxresdefault.jpg);
+    height: 50%;
+    width: 99%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: relative;
 }
